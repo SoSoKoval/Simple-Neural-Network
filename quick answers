@@ -1,0 +1,15 @@
+RNN
+How it works: RNNs are good for working with data that comes in a sequence, like sentences in a text or data over time. They remember past information and use it to help make decisions.
+What it's good for: Great for when the order of your data is important, like in voice recognition or when predicting what comes next in a series of data.
+
+CNN
+How it works: CNNs are really good for data that has a shape or layout, like pictures. They look at small parts of the data at a time to understand the big picture.
+What it's good for: They are great for recognizing things in images and videos, like finding objects in photos or analyzing medical images.
+
+Attention Mechanism
+How it works: The attention mechanism lets a model focus on the most important parts of the data. Imagine reading a sentence and paying more attention to some words than others to understand the meaning.
+What it's good for: It's useful for working with language, like translating sentences or summarizing a big article into a few lines.
+
+Transformer
+How it works: Transformers use attention to process all parts of the data at once, not one step at a time. This makes them fast and good at understanding language.
+What it's good for: They're really good for language tasks like translating between languages or writing new text, and they're starting to be used for other things like understanding pictures.
