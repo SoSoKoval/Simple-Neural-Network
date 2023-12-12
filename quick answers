@@ -10,6 +10,6 @@ Attention Mechanism
 How it works: The attention mechanism lets a model focus on the most important parts of the data. Imagine reading a sentence and paying more attention to some words than others to understand the meaning.
 What it's good for: It's useful for working with language, like translating sentences or summarizing a big article into a few lines.
 
-Transformer
+Transformers
 How it works: Transformers use attention to process all parts of the data at once, not one step at a time. This makes them fast and good at understanding language.
 What it's good for: They're really good for language tasks like translating between languages or writing new text, and they're starting to be used for other things like understanding pictures.
